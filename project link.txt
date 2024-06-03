@@ -1,0 +1,1 @@
+https://medium.com/@21harsh12/deploy-a-docker-container-with-aws-ecs-and-terraform-ee0a27f1f5a6
